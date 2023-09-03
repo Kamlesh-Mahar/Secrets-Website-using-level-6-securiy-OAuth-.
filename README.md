@@ -6,11 +6,11 @@ Secrets Website using level 6 security using OAuth sign up with google.
 
 -How to run the code ?
 
--Download or fork the project.
+- Get the project by either downloading it or forking it.
 
--open the porject folder location and instalal all the dependencies using " npm i "
+- Navigate to the project directory on your computer, and in your terminal, execute the command 'npm i' to install all the necessary dependencies for this project.
 
--run it usng nodemon app.js.
+- Launch your project by running the command 'nodemon app.js' in your terminal using nodemon.
 
 # Screenshot
 project screenshot :
